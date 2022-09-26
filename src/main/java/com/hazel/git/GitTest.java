@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("Git --> first update");
         System.out.println("Git --> second update");
         System.out.println("Git --> dev add");
+        System.out.println("This is dev");
     }
 }
