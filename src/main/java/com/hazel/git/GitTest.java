@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Git --> create files");
         System.out.println("Git --> first update");
         System.out.println("Git --> second update");
+        System.out.println("Git --> dev branch add");
     }
 }
