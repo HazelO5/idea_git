@@ -7,5 +7,6 @@ package com.hazel.git;
 public class NewFiles {
     public static void main(String[] args) {
         System.out.println("clone update111");
+        System.out.println("clone update222");
     }
 }
