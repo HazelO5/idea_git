@@ -5,4 +5,7 @@ package com.hazel.git;
  * @date 2022/9/26 9:17
  */
 public class NewFiles {
+    public static void main(String[] args) {
+        System.out.println("clone update");
+    }
 }
